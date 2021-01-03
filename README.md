@@ -1,5 +1,5 @@
 # Autonomous-Navigation-F-86-Sabre
-Implementation of a Linear Quadratic Regulator (LQR) and a Model Predictive Controller (MPC) while a Recursive Rewarding Adaptive Cell Decomposition, together with Smooth 3D Path Planning, and a non-linear guidance law are put into effect.
+Comparison of results from utilizing a Linear Quadratic Regulator (LQR) and a Linear Time-invariant Model Predictive Controller (MPC) while a Recursive Rewarding Adaptive Cell Decomposition, together with Smooth 3D Path Planning, and a non-linear guidance law are implemented.
 
 The carpet "Functions" contains all required Matlab functions to run the pricipal script.
 
